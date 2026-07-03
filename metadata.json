@@ -1,0 +1,6 @@
+{
+  "name": "Excel Pivot & Increase-Decrease Analyzer",
+  "description": "An Excel file analyzer that computes ending vs prior period differences and generates business-level pivot reports with customizable currency units and export capability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
